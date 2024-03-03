@@ -1,10 +1,6 @@
 # Stellar-Classification-using-Neural-Network
-##
-#
-# Why This Project
-#
-#
-#
+## Why This Project
+
 
 # Dataset source
 ### Main Dataset : https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17
